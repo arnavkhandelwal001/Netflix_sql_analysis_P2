@@ -1,6 +1,6 @@
 # 🎬 Netflix Movies & TV Shows Data Analysis using PostgreSQL
 
-![Netflix Banner](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
+![Netflix Banner](https://github.com/arnavkhandelwal001/Netflix_sql_analysis_P2/blob/main/Netflix_logo.png)
 
 ## 📖 Overview
 
